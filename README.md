@@ -3,7 +3,7 @@
 # clone or download zip
 clone the repository or download a zip of it
 
-#npm install
+# npm install
 before starting the application type "npm install" on your terminal to install all the dependencies
 
 # npm start
