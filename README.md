@@ -3,6 +3,9 @@
 # clone or download zip
 clone the repository or download a zip of it
 
+# error solving
+if there is an error that prevents this application from running, proceed to next procedure
+
 # npm install
 before starting the application type "npm install" on your terminal to install all the dependencies
 
